@@ -20,10 +20,13 @@ public class hw02 {
         		break;
         	}
         	System.out.print(sum+" ");
-        }
-        for(int i=0;sum<n;i++){
         	
         }
+     	System.out.println();
+        for(int x=1;x<=n;x++){
+        	for(int y=0;x>y;y++){
+        	 System.out.print(x+" ");
 	}
-
+  }
+ }
 }
